@@ -23,7 +23,7 @@ paginate:	10
 paginate_path: "/blog/page:num"
 permalink: /:categories/:year/:month/:day/:title 
 
-url: "http://faq.hackeducation.com" # the base hostname & protocol for your site
+url: "http://faq.audreywatters.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@audreywatters'
@@ -45,7 +45,7 @@ social:
     share_link: "?u="
 
   - icon:	github
-    url:	https://github.com/audreywatters.com/faq
+    url:	https://github.com/audreywatters/faq
     desc: Fork me on github
 
   - icon: rss
